@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @ngovantoan05
+- 👀 Tôi quan tâm đến information technology
+- 🌱 Tôi hiện đang học univercity 
+- 💞️ Tôi đang muốn cộng tác trên facebook
+- 📫 Contact: ngovantoan1305y@gmail.com
+
+<!---
+ngovantoan05/ngovantoan05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
