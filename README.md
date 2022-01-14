@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ngovantoan05
 - 👀 Tôi quan tâm đến information technology
 - 🌱 Tôi hiện đang học university 
-- 💞️ Tôi đang muốn cộng tác trên facebook
+- 💞️ Tôi đang muốn có người yêu
 - 📫 Contact: ngovantoan1305y@gmail.com
 Thank you
 
