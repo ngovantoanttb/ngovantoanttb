@@ -4,7 +4,7 @@
 - 💞️ Tôi đang muốn có người yêu
 - ✉️ Contact: ngovantoan1305y@gmail.com
 - Editer Photography by Photoshop 
-Giả vờ ngốc thì bạn sẽ học được nhiều hơn.
+- Giả vờ ngốc thì bạn sẽ học được nhiều hơn.
 
 Thank you
 
