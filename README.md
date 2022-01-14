@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @ngovantoan05
-- 👀 Tôi quan tâm đến information technology
-- 🌱 Tôi hiện đang học university 
+- 👀 Tôi quan tâm đến ngành lập trình phât triển phần mềm/ứng dụng
+- 🌱 Tôi hiện đang học ngành công nghệ thông tin 
 - 💞️ Tôi đang muốn có người yêu
-- 📫 Contact: ngovantoan1305y@gmail.com
+- ✉️ Contact: ngovantoan1305y@gmail.com
+- Editer Photography by Photoshop 
+Giả vờ ngốc thì bạn sẽ học được nhiều hơn.
+
 Thank you
 
 <!---
