@@ -1,6 +1,4 @@
-<video autoplay>
-  <source src="https://youtu.be/kKLx43b2BMM">
-</video>
+
 <h2 align="center">👽 Personal-Ngô Văn Toàn 👽</h2>
 <br>
 
