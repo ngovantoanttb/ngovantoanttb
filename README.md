@@ -2,7 +2,7 @@
 <br>
 
 <div align="center">
-    <img width="90" height="90" src="LogoNgoVanToan.png.jpg" alt="blog" />
+    <img width="90" height="90" src="NgoVanToanLogo.jpg" alt="blog" />
   </a>
   <a href="https://facebook.com/NgoVanToan.TTB" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="facebook" />
