@@ -1,4 +1,4 @@
-<h2 align="center">👽 Personal-Ngô Văn Toàn 👽</h2>
+<h2 align="center">👽 Personal👽</h2>
 <br>
 
 <div align="center">
