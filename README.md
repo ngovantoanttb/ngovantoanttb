@@ -41,10 +41,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bastndev&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/ngô văn toàn" target="blank">
@@ -58,4 +54,3 @@
 <a href="https://discord.gg/https://discord.gg/JETX8quHaZ" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/JETX8quHaZ" height="30" width="40" /></a>
 </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ngovantoanttb&" alt="ngovantoanttb" /></p>
