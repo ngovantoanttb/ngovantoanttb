@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋;Ngô+Văn+Toàn;Welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋;I'm+Ngô+Văn+Toàn;Welcome+To+Profiles!)](https://git.io/typing-svg)
 <br>
 
 <div align="center">
@@ -16,7 +16,6 @@
 </div>
 
 <br>
-<h1 align="center">Hi 👋, I'm Ngô Văn Toàn</h1>
 <h3 align="center">계속 인생은 아름답고 웃어야 할 일로 가득차 있다.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ngovantoanttb&label=Profile%20views&color=0e75b6&style=flat" alt="ngovantoanttb" /> </p>
