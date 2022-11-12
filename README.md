@@ -1,4 +1,4 @@
-<h2 align="center">👽 Personal👽</h2>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋;Ngô Văn Toàn;Welcome!)](https://git.io/typing-svg)
 <br>
 
 <div align="center">
