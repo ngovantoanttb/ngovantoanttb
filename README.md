@@ -20,7 +20,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ngovantoanttb&label=Profile%20views&color=0e75b6&style=flat" alt="ngovantoanttb" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ngovantoann" target="blank"><img src="https://img.shields.io/twitter/follow/ngovantoann?logo=twitter&style=for-the-badge" alt="ngovantoann" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ngovantoanttb" target="blank"><img src="https://img.shields.io/twitter/follow/ngovantoanttb?logo=twitter&style=for-the-badge" alt="ngovantoanttb" /></a> </p>
 
 - 🌱 I’m currently learning **Information Technology**
 
