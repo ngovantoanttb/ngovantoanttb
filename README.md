@@ -2,6 +2,9 @@
 <br>
 
 <div align="center">
+  <a target="blank">
+    <img src="Logo.webp" alt="Logo" />
+  </a>
   <a href="https://facebook.com/NgoVanToan.TTB" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="facebook" />
   </a>
