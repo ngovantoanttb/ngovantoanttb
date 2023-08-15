@@ -20,16 +20,6 @@
 
 <p align="left"> <a href="https://twitter.com/ngovantoanttb" target="blank"><img src="https://img.shields.io/twitter/follow/ngovantoanttb?logo=twitter&style=for-the-badge" alt="ngovantoanttb" /></a> </p>
 
-- 🌱 I’m currently learning **Information Technology**
-
-- 📝 I regularly write articles on [https://ngovantoanttb.blogspot.com](https://ngovantoanttb.blogspot.com)
-
-- 💬 Ask me about **Xin chào bạn 😚**
-
-- 📫 How to reach me **ngovantoan1305y@gmail.com**
-
-- 📄 Know about my experiences []()
-
  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngovantoanttb&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117" />
 
 <h3 align="left">Connect with me:</h3>
